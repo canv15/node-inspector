@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/node-inspector/node-inspector.svg?branch=master)](https://travis-ci.org/node-inspector/node-inspector)
 [![NPM version](https://badge.fury.io/js/node-inspector.svg)](http://badge.fury.io/js/node-inspector)
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=195817)](https://www.bountysource.com/trackers/195817-node-inspector?utm_source=195817&utm_medium=shield&utm_campaign=TRACKER_BADGE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnode-inspector.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnode-inspector?ref=badge_shield)
 
 [![Join the chat at https://gitter.im/node-inspector/node-inspector](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/node-inspector/node-inspector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -417,3 +418,7 @@ started.
 
 
 Big thanks to the many contributors to the project, see [Contributors on GitHub](https://github.com/node-inspector/node-inspector/graphs/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnode-inspector.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnode-inspector?ref=badge_large)
